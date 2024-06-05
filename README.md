@@ -6,9 +6,9 @@
 </div>
 
 ### :man_technologist: About Me :
+- Currently working as a Senior Quality Engineer and learning automation
+- I have a strong foundation in software testing, quality assurance, and development, which allows me to contribute effectively to cross-functional teams.
 - I am a Full Stack Programmer Jr.
-- I have experience as a Senior QA.
-- I am learning mobile development with React Native.
 - Lover of nature and green spaces.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uadeguer/)
@@ -37,8 +37,8 @@
   </div>
   <h3 align="center">Testing</h3>
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="50" height="50"/>
   </div>
 </div>
